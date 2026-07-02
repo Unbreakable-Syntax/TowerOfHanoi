@@ -11,7 +11,7 @@ This is an application aiming to emulate the Tower of Hanoi, made using C# and W
 - Enable or disable visual cues
 - Displays elapsed time and optimal number of moves for players who want to track their progress
 - Only valid moves are accepted
-- Optimized for smooth gameplay, especially on larger numbers of disks
+- Optimized for smooth gameplay, especially with larger numbers of disks
 - In-app Help section explaining the controls and the rules of the game
 # Requirements
 - Requires .NET Framework 4.7.2 or later
