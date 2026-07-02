@@ -574,7 +574,7 @@
             // 
             this.rod2.AllowDrop = true;
             this.rod2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.rod2.BackColor = System.Drawing.SystemColors.Desktop;
+            this.rod2.BackColor = System.Drawing.SystemColors.ControlText;
             this.rod2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rod2.Location = new System.Drawing.Point(174, 18);
             this.rod2.Margin = new System.Windows.Forms.Padding(0);
@@ -639,7 +639,7 @@
             // 
             this.rod3.AllowDrop = true;
             this.rod3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.rod3.BackColor = System.Drawing.SystemColors.Desktop;
+            this.rod3.BackColor = System.Drawing.SystemColors.ControlText;
             this.rod3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rod3.Location = new System.Drawing.Point(174, 18);
             this.rod3.Margin = new System.Windows.Forms.Padding(0);
