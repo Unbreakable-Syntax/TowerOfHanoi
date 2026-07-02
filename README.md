@@ -1,6 +1,6 @@
 # Tower Of Hanoi
 
-![alt text](https://github.com/Unbreakable-Syntax/TowerOfHanoi/blob/main/towerofhanoiscreenshot.png?raw=true)
+![alt text](https://github.com/Unbreakable-Syntax/TowerOfHanoi/blob/master/towerofhanoiscreenshot.png?raw=true)
 
 This is an application aiming to emulate the Tower of Hanoi, made using C# and WinForms. The application includes several features that aim to enhance and simplify the experience of the user when playing Tower of Hanoi. This was developed on 2nd Year 1st Semester as a research project.
 # Features
