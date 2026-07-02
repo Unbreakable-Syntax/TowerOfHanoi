@@ -12,3 +12,4 @@ This is an application aiming to emulate the Tower of Hanoi, made using C# and W
 - Displays elapsed time and optimal number of moves for players who want to track their progress
 - Only valid moves are accepted
 - Optimized for high performance, especially with larger numbers of disks
+- In-app Help section explaining the controls and the rules of the game
