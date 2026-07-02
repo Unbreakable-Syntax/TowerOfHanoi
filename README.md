@@ -7,7 +7,7 @@ This is an application aiming to emulate the Tower of Hanoi, made using C# and W
 - Supports up to 11 disks
 - Three play modes: Drag-and-drop, click-to-drop, and keyboard control
 - Built-in auto-solver that shows the solution for the selected number of disks, with customizable solution speed (the delay before the next valid move is revealed) and a text description explaining each move
-- An option to increase the difficulty of the game
+- Limited Moves: Solve the puzzle using the optimal number of moves only. Any unnecessary move will prevent completion of the challenge.
 - Enable or disable visual cues
 - Displays elapsed time and optimal number of moves for players who want to track their progress
 - Only valid moves are accepted
