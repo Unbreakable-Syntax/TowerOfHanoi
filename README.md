@@ -10,3 +10,4 @@ This is an application aiming to emulate the Tower of Hanoi, made using C# and W
 - An option to increase the difficulty of the game
 - Enable or disable visual cues
 - Displays elapsed time and optimal moves possible for people wanting to track progress
+- Only valid moves are accepted
