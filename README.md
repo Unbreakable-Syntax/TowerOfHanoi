@@ -1,4 +1,4 @@
-# Tower Of Hanoi
+# Overview
 
 ![alt text](https://github.com/Unbreakable-Syntax/TowerOfHanoi/blob/master/towerofhanoiscreenshot.png?raw=true)
 
